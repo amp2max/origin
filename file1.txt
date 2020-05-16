@@ -1,0 +1,13 @@
+anaconda-ks.cfg
+Desktop
+Documents
+Downloads
+github
+initial-setup-ks.cfg
+Music
+my-fprintd.pp
+my-fprintd.te
+Pictures
+Public
+Templates
+Videos

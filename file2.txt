@@ -1,0 +1,14 @@
+total 16
+-rw-------. 1 root 1413 Mar  5 00:18 anaconda-ks.cfg
+-rw-r--r--. 1 root 1568 Mar  5 05:21 initial-setup-ks.cfg
+drwxr-xr-x. 2 root    6 Mar  5 20:58 Templates
+drwxr-xr-x. 2 root    6 Mar  5 20:58 Public
+drwxr-xr-x. 2 root    6 Mar  5 20:58 Music
+drwxr-xr-x. 2 root    6 Mar  5 20:58 Documents
+drwxr-xr-x. 2 root    6 Mar  5 20:58 Desktop
+drwxr-xr-x. 2 root    6 Mar  5 20:58 Videos
+drwxr-xr-x. 2 root    6 Mar  5 20:58 Pictures
+drwxr-xr-x. 5 root  253 Mar 17 17:57 Downloads
+-rw-r--r--. 1 root  277 Apr 18 20:40 my-fprintd.te
+-rw-r--r--. 1 root 1059 Apr 18 20:40 my-fprintd.pp
+drwxr-xr-x. 3 root   23 May 16 10:06 github
